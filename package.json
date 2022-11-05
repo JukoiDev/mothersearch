@@ -1,0 +1,22 @@
+{
+  "name": "mothersearch",
+  "version": "1.0.1",
+  "description": "Search your Mother!",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JukoiDev/mothersearch"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "awli",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
